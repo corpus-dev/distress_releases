@@ -1,0 +1,52 @@
+END USER LICENSE AGREEMENT
+
+Last updated: 2026-05-09
+
+This End User License Agreement ("Agreement") is a legal agreement between you ("You" or "Licensee") and IT Corpus UA ("Licensor") for the software product identified as distress, including any associated files, documentation, and updates (collectively, the "Software").
+
+BY DOWNLOADING, INSTALLING, OR USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT DOWNLOAD, INSTALL, OR USE THE SOFTWARE.
+
+1. LICENSE GRANT
+Subject to Your compliance with this Agreement, Licensor grants You a personal, non-exclusive, non-transferable, non-sublicensable, royalty-free, revocable license to install and use the Software in binary form on devices that You own or control, solely for Your own internal use.
+
+2. RESTRICTIONS
+You shall not, and shall not permit any third party to:
+(a) modify, adapt, alter, translate, or create derivative works of the Software;
+(b) reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code, underlying ideas, algorithms, file formats, or non-public APIs of the Software, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation (including, where applicable, for interoperability purposes under mandatory provisions of EU Directive 2009/24/EC or equivalent national law);
+(c) redistribute, sell, rent, lease, lend, sublicense, host, or otherwise make the Software available to any third party, whether for a fee or free of charge;
+(d) remove, alter, or obscure any copyright, trademark, or other proprietary notices contained in or on the Software;
+(e) circumvent, disable, or otherwise interfere with any security, licensing, or technical protection mechanisms of the Software;
+(f) use the Software to develop a competing product, or to benchmark or analyze the Software for such purpose;
+(g) use the Software in any manner that violates applicable law.
+
+3. OWNERSHIP
+The Software is licensed, not sold. Licensor and its licensors retain all right, title, and interest in and to the Software, including all intellectual property rights therein. No rights are granted to You other than as expressly set forth in this Agreement. All rights not expressly granted are reserved.
+
+4. UPDATES
+Licensor may, at its sole discretion, provide updates, patches, or new versions of the Software. Any such updates are subject to this Agreement unless accompanied by separate terms.
+
+5. TERM AND TERMINATION
+This Agreement is effective until terminated. It will terminate automatically and immediately upon any breach by You. Upon termination, You must cease all use of the Software and destroy all copies in Your possession or control. Sections 2, 3, 6, 7, 8, and 10 survive termination.
+
+6. DISCLAIMER OF WARRANTIES
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR DISCLAIMS ALL WARRANTIES, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, OR UNINTERRUPTED OR ERROR-FREE OPERATION. YOU ASSUME ALL RISK ARISING FROM USE OF THE SOFTWARE.
+
+7. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS, REVENUE, DATA, USE, OR GOODWILL, ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. LICENSOR'S TOTAL CUMULATIVE LIABILITY SHALL NOT EXCEED ONE HUNDRED EUROS (EUR 100) OR THE EQUIVALENT IN LOCAL CURRENCY. NOTHING IN THIS SECTION LIMITS LIABILITY THAT CANNOT BE LIMITED UNDER APPLICABLE LAW.
+
+8. EXPORT AND SANCTIONS COMPLIANCE
+You agree to comply with all applicable export control and sanctions laws and regulations and shall not use, export, or re-export the Software in violation thereof.
+
+9. THIRD-PARTY COMPONENTS
+The Software may include third-party components governed by their own license terms, which are made available with the Software or its documentation. Such terms apply to those components in addition to, and where applicable in lieu of, this Agreement.
+
+10. GOVERNING LAW AND JURISDICTION
+This Agreement is governed by the laws of Ukraine, without regard to its conflict of laws principles. The exclusive venue for any dispute arising from this Agreement shall be the competent courts of Ukraine, unless mandatory consumer protection law requires otherwise.
+
+11. ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the parties regarding the Software and supersedes all prior agreements and communications. If any provision is held unenforceable, the remaining provisions shall remain in full force. No waiver shall be effective unless in writing.
+
+12. CONTACT
+Questions regarding this Agreement should be directed to: corpus-dev@
+
+© 2026 IT Corpus UA. All rights reserved.
